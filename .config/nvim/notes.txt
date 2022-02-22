@@ -1,0 +1,12 @@
+https://ajayfromiiit.wordpress.com/2009/10/21/server-and-client-mode-in-vim/
+look into server client mode for vim
+
+look into gdb integration with the built in terminal
+
+https://github.com/ap/vim-buftabline#why-this-and-not-vim-tabs
+buffer philosophy
+
+https://www.youtube.com/playlist?list=PLPDVgSbOnt7LXQ8DTzu37UwCpA0elyD0V
+really good series about setting up plugins for neovim
+
+
